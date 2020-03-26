@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="neuroph-core-2.96">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/neuroph-core-2.96.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
